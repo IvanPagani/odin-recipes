@@ -1,0 +1,15 @@
+/* styles.css */
+
+.title-1 {
+    color: rgb(60, 35, 5);
+    font-weight: bolder;
+    font-size: 28px;
+    font-family: 'Times New Roman', Arial, serif;
+}
+
+.title-2 {
+    color: rgb(60, 35, 5);
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Arial, serif;
+}
